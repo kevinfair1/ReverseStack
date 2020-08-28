@@ -1,0 +1,2 @@
+C:\Users\kevin\source\repos\reversestackprog\Debug\reversestackprog.exe
+C:\Users\kevin\source\repos\reversestackprog\Debug\reversestackprog.pdb
